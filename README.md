@@ -3,7 +3,7 @@
 ### AI in Incident Response: Automating Context, Not Judgment  
 
 Welcome!  
-This repo powers the live demo from the **KSU IT 7103 / Industry Workshop (Oct 30 2025)** led by **Sudheer Amgothu**, *Principal Cloud Operations Engineer at Google*.  
+This repo powers the live demo from the **KSU / Industry Workshop (Nov 3 2025)** led by **Sudheer Amgothu**, *Principal Cloud Operations Engineer at PegaSystems*.  
 
 In this session, we explored how **AI can accelerate incident response** without replacing human judgment.  
 You’ll build and run a small, enterprise-style **AI-Assisted Incident Briefing Orchestrator** that simulates how real SRE and DevOps teams communicate during live outages.
